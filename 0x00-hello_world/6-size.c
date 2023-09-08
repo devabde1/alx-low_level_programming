@@ -2,7 +2,7 @@
 /**
  * main - this is about size ones
  * Return: 0 (Success)
- * /
+ */
 int main(void)
 {
 char a;
